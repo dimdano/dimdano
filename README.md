@@ -1,5 +1,5 @@
 - Hi 👋, I am Dimitrios Danopoulos
-- I’m interested in optimization of neural networks for hardware accelerators
+- I’m interested in optimization of AI algorithms, such as neural networks, for hardware accelerators.
 
 
 <!---
